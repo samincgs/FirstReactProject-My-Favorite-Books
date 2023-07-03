@@ -5,7 +5,7 @@ export const books = [
   {
     title: 'The Legend of Zelda™: Tears of the Kingdom',
     author: 'Nintendo',
-    img: img1,
+    img: img3,
     id: 1,
   },
   {
@@ -17,7 +17,7 @@ export const books = [
   {
     title: 'A Court of Thorns and Roses',
     author: 'Sarah J. Maas',
-    img: img3,
+    img: img1,
     id: 3,
   },
 ];
